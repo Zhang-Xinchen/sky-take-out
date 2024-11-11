@@ -16,7 +16,7 @@ import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 
 /**
- * 配置类，注册web层相关组件
+ * 配置类，
  */
 @Configuration
 @Slf4j
